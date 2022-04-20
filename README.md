@@ -1,7 +1,7 @@
 ##  Bem-vindo(a) ao perfil do Thiago-Allves
 
 <div>
-  <a href="https://github.com/Thiago-Allves">
+  <a href="https://github.com/thiallves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Allves&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Allves&layout=compact&langs_count=6&theme=gruvbox"/>
 </div>
